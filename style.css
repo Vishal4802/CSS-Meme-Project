@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    padding: 90px 0px;
+}
+
+div {
+    color: white;
+    margin: auto;
+    width: 50%;
+    margin-left: 25%;
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Unbounded', cursive;
+}
+
+p {
+    text-align: center;
+}
